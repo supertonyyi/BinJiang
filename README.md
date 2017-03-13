@@ -1,2 +1,2 @@
 # BinJiang
-This is another update.
+This project is for testing purpose.
